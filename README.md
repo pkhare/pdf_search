@@ -1,5 +1,5 @@
-# PDF Search
-A short exercise demonstrating a pipeline for document ingestion, search, and query.
+# PDF Search - RAG
+A short exercise demonstrating a pipeline for document ingestion, search, and query (RAG based approach) using LLM (Open AI) and vector database.
 
 Dependencies (also highlighted in requirements.txt):
 * PyMuPDF
