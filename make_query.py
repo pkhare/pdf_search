@@ -1,11 +1,6 @@
-import argparse
 from dataclasses import dataclass
 from langchain_community.vectorstores.chroma import Chroma
-#from langchain.embeddings import OpenAIEmbeddings
-#from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import OpenAIEmbeddings
-#from langchain.chat_models import ChatOpenAI
-#from langchain_community.chat_models import ChatOpenAI
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 import os
@@ -43,6 +38,7 @@ def main():
         #query_text = "How to unlock the doors of the vehicle/car with remote?"
         #query_text = "How to adjust seats?"
         #query_text = "Where is the horn present?"
+        #query_text = "Who is the President of the United States?"
         #query_text = "How to increase the speed of the wiper?"
         #query_text = "How to handle manual transmission of the vehicle?"
 
