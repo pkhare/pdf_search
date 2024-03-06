@@ -12,4 +12,4 @@ The two sample PDFs are in **doc_files** folder. First execute **data_process.py
 
 While executing the **data_process.py**, you will need your **Open AI API key** ready for usage. The CLI will ask you to insert your key.
 
-Once data is processed, you execute **make_query.py** to run an a query service in a loop (unless typed _quit_ or forcefully terminated). For this service again you need your **Open AI API key** handy.
+Once the data is processed, you execute **make_query.py** to run an a query service in a loop (unless typed _quit_ or forcefully terminated). For this service again you need your **Open AI API key** handy.
