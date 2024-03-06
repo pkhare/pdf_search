@@ -1,0 +1,5 @@
+PyMuPDF
+chromadb==0.4.14
+langchain
+langchain_openai
+protobuf #conda install protobuf
